@@ -18,5 +18,5 @@ The idea of rectified flow is to move one distribution to another.
 
 ![Screenshot 2024-05-04 at 14 34 52](https://github.com/Forbu/SimplexFlow/assets/11457947/2f91732b-3807-4520-ae85-dc56fb810906)
 
-After a few epoch (20) we obtain those sample.
+After a few epoch (20) we obtain those samples.
 We modify a little bit the MF setup and adapt it to categorical variable.
